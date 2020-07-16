@@ -16,5 +16,7 @@ public class Yingx192GitApplicationTests {
 
     public static void main(String[] args) {
         System.out.println("======");
+        int a = 10;
+        int aa = 20;
     }
 }

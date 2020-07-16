@@ -12,6 +12,7 @@ public class Yingx192Tests {
     @Test
     public void contextLoads() {
         System.out.println("====");
+        System.out.println("====");
     }
 
 }

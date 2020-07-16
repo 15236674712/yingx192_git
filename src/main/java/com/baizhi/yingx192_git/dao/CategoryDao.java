@@ -8,4 +8,6 @@ public interface CategoryDao {
 
     List<Categeory> queryByCategroy(String cateName);
 
+    List<Categeory> queryAll(String cateName);
+
 }

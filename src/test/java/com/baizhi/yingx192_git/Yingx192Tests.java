@@ -17,6 +17,11 @@ public class Yingx192Tests {
         int a = 20;
         System.out.println(a);
         System.out.println("==========");
+        int bbb=30;
+        int ccc=20;
+        for (int i = 0; i < 100; i++) {
+             ccc=bbb+ccc;
+        }
     }
 
 }

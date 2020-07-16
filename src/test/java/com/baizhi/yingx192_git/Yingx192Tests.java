@@ -17,6 +17,9 @@ public class Yingx192Tests {
         int a = 20;
         System.out.println(a);
         System.out.println("==========");
+        int aaa = 18;
+        int bbb = 20;
+        System.out.println(aaa + bbb);
     }
 
 }

@@ -25,6 +25,7 @@ public class Yingx192Tests {
         int aaa = 18;
         System.out.println(aaa + ccc);
         System.out.println("=====");
+        System.out.println("-----");
 
     }
 

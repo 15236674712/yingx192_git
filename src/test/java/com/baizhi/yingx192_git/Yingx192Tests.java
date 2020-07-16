@@ -14,6 +14,8 @@ public class Yingx192Tests {
         System.out.println("====");
         System.out.println("====");
         System.out.println("==Github==");
+        int a = 20;
+        System.out.println(a);
     }
 
 }

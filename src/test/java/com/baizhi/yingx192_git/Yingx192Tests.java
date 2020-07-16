@@ -22,6 +22,9 @@ public class Yingx192Tests {
         for (int i = 0; i < 100; i++) {
              ccc=bbb+ccc;
         }
+        int aaa = 18;
+        System.out.println(aaa + ccc);
+
     }
 
 }
